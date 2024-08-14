@@ -1,6 +1,6 @@
-# Text-Summarizer
+# Text-Summarizer Using NLP
 
-Text-Summarizer is a tool designed to generate summaries of text with customizable lengths. It leverages natural language processing (NLP) techniques to provide concise and coherent summaries based on user preferences.
+Text-Summarizer is a tool designed to generate summaries of text with customizable lengths. It leverages natural language processing (NLP) techniques to provide concise and coherent summaries based on user preferences.It also enables to find the synonyms and finding grammatical mistake using the BERT model.
 
 ## Features
 - **Customizable Summary Length:** Adjust the length of the generated summaries to meet your needs.
